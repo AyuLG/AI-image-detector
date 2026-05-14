@@ -21,25 +21,6 @@ This project was developed as part of the **Fundamentals of AI** course (3rd Yea
 | Deepfakes spread misinformation | Accessible web interface for everyone |
 | No easy detection tools | Works offline, no API costs |
 
----
-
-## 👥 Team Members (Group 2)
-
-| Name | ID |
-|------|-----|
-| Ayalkibet Tigistu | NSR/0118/16 |
-| Ayantu Legesse | NSR/0119/16 |
-| Aymen Mubarek | NSR/0124/16 |
-| Biniyam Tamru | NSR/0187/16 |
-| Dagim Mengistu | NSR/0215/16 |
-| Dagmawit Dagnachew | NSR/0219/16 |
-| Dagnachew Eshetu | NSR/0221/16 |
-
-**Course:** Fundamentals of AI – 3rd Year  
-**Department:** Software Engineering  
-**College:** College of Computing and Informatics
-
----
 
 ## 🚀 Features
 
